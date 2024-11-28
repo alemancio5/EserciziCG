@@ -1,0 +1,3 @@
+/Users/alessandromancini/Ale/Coding/Progetti Visual Studio Code/EserciziCG/A05CG/build/CMakeFiles/A05CG.dir
+/Users/alessandromancini/Ale/Coding/Progetti Visual Studio Code/EserciziCG/A05CG/build/CMakeFiles/edit_cache.dir
+/Users/alessandromancini/Ale/Coding/Progetti Visual Studio Code/EserciziCG/A05CG/build/CMakeFiles/rebuild_cache.dir

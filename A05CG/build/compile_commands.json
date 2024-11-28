@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/alessandromancini/Ale/Coding/Progetti Visual Studio Code/EserciziCG/A05CG/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Library/Added/Vulkan/libs/glfw-3.4.bin.MACOS/include -I/Library/Added/Vulkan/libs/glm -I\"/Users/alessandromancini/Ale/Coding/Progetti Visual Studio Code/EserciziCG/A05CG/headers\" -framework Cocoa -framework OpenGL -framework IOKit -framework CoreVideo -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/A05CG.dir/A05.cpp.o -c \"/Users/alessandromancini/Ale/Coding/Progetti Visual Studio Code/EserciziCG/A05CG/A05.cpp\"",
+  "file": "/Users/alessandromancini/Ale/Coding/Progetti Visual Studio Code/EserciziCG/A05CG/A05.cpp",
+  "output": "CMakeFiles/A05CG.dir/A05.cpp.o"
+}
+]
