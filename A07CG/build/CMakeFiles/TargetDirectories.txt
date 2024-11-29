@@ -1,3 +1,3 @@
-/Users/alessandromancini/Ale/Coding/Progetti Visual Studio Code/EserciziCG/A07CG/build/CMakeFiles/A07CG.dir
-/Users/alessandromancini/Ale/Coding/Progetti Visual Studio Code/EserciziCG/A07CG/build/CMakeFiles/edit_cache.dir
-/Users/alessandromancini/Ale/Coding/Progetti Visual Studio Code/EserciziCG/A07CG/build/CMakeFiles/rebuild_cache.dir
+/Users/alessandromancini/Ale/Coding/Progetti VSC/EserciziCG/A07CG/build/CMakeFiles/A07CG.dir
+/Users/alessandromancini/Ale/Coding/Progetti VSC/EserciziCG/A07CG/build/CMakeFiles/edit_cache.dir
+/Users/alessandromancini/Ale/Coding/Progetti VSC/EserciziCG/A07CG/build/CMakeFiles/rebuild_cache.dir

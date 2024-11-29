@@ -1,4 +1,4 @@
-# Install script for directory: /Users/alessandromancini/Ale/Coding/Progetti Visual Studio Code/EserciziCG/A09CG
+# Install script for directory: /Users/alessandromancini/Ale/Coding/Progetti VSC/EserciziCG/A09CG
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "/Users/alessandromancini/Ale/Coding/Progetti Visual Studio Code/EserciziCG/A09CG/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/Users/alessandromancini/Ale/Coding/Progetti VSC/EserciziCG/A09CG/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

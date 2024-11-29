@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/alessandromancini/Ale/Coding/Progetti Visual Studio Code/EserciziCG/A03CG/A03.cpp" "CMakeFiles/A03CG.dir/A03.cpp.o" "gcc" "CMakeFiles/A03CG.dir/A03.cpp.o.d"
+  "/Users/alessandromancini/Ale/Coding/Progetti VSC/EserciziCG/A03CG/A03.cpp" "CMakeFiles/A03CG.dir/A03.cpp.o" "gcc" "CMakeFiles/A03CG.dir/A03.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

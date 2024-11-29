@@ -1,6 +1,6 @@
 CMakeFiles/A09CG.dir/A09.cpp.o: \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/A09.cpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/modules/Starter.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/A09.cpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/modules/Starter.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/iostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__assert \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__assertion_handler \
@@ -979,272 +979,272 @@ CMakeFiles/A09CG.dir/A09.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/path_iterator.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/u8path.h \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/glm.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/detail/_fixes.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/detail/setup.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/glm.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/detail/_fixes.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/detail/setup.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/cassert \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/assert.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/_assert.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/_static_assert.h \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/detail/../simd/platform.h \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/detail/../simd/platform.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/cfloat \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/float.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/float.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/float.h \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/fwd.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/detail/qualifier.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/vec2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_bool2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/type_vec2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/qualifier.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/type_vec2.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/./compute_vector_relational.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/./setup.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_bool2_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_float2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_float2_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_double2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_double2_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_int2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_int2_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_uint2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_uint2_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/vec3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_bool3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/type_vec3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/type_vec3.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/compute_vector_relational.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_bool3_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_float3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_float3_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_double3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_double3_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_int3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_int3_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_uint3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_uint3_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/vec4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_bool4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/type_vec4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/type_vec4.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_bool4_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_float4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_float4_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_double4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_double4_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/setup.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_int4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_int4_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_uint4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/vector_uint4_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/mat2x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/matrix_double2x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/type_mat2x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/type_mat2x2.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../matrix.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/qualifier.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/setup.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../vec2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../vec3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../vec4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat2x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat2x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double2x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat2x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_vec2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_vec3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat2x3.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double2x3_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float2x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float2x3_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat2x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double2x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat2x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_vec4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat2x4.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double2x4_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float2x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float2x4_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat3x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double3x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat3x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat3x2.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double3x2_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float3x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float3x2_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat3x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double3x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat3x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat3x3.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/../matrix.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double3x3_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float3x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float3x3_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat3x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double3x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat3x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat3x4.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double3x4_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float3x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float3x4_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat4x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double4x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat4x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat4x2.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double4x2_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float4x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float4x2_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat2x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat4x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double4x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat4x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat4x3.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double4x3_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float4x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float4x3_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat4x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double4x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat4x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat4x4.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double4x4_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float4x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float4x4_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/func_matrix.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../geometric.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/type_vec3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/func_geometric.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../exponential.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/type_vec1.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/qualifier.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/type_vec1.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/./compute_vector_relational.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/type_vec2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/type_vec3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/type_vec4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/func_exponential.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/../vector_relational.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/../detail/qualifier.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/../detail/setup.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/../detail/func_vector_relational.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/_vectorize.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../common.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/_fixes.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/func_common.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/compute_common.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/setup.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/matrix_double2x2_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/matrix_float2x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/./ext/matrix_float2x2_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/mat2x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/mat2x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/mat3x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/mat3x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/mat3x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/mat4x2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/mat4x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/mat4x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/trigonometric.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/detail/func_trigonometric.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/detail/_vectorize.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/exponential.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/common.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/packing.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/detail/func_packing.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/detail/../common.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/detail/type_half.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/detail/type_half.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/geometric.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/matrix.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/vector_relational.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/integer.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/detail/func_integer.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/matrix_transform.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../mat4x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../vec2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../vec3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../vec4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/matrix_projection.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../gtc/constants.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../gtc/../ext/scalar_constants.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../gtc/../ext/../detail/setup.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../gtc/../ext/scalar_constants.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../gtc/constants.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../geometric.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../trigonometric.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../matrix.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/matrix_projection.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/matrix_clip_space.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../ext/scalar_constants.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/matrix_clip_space.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/matrix_transform.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/matrix_transform.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/matrix_transform.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../geometric.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../trigonometric.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../matrix.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/quaternion.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../gtc/constants.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../gtc/matrix_transform.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/vector_relational.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/qualifier.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/vector_relational.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../vector_relational.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../common.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/type_float.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/setup.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_common.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../ext/quaternion_geometric.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../ext/../geometric.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../ext/../exponential.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../ext/../ext/vector_relational.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../ext/quaternion_geometric.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../exponential.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_common.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_float.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/type_quat.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../detail/type_mat3x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../detail/type_mat4x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../detail/type_vec3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../detail/type_vec4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../ext/vector_relational.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../ext/quaternion_relational.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../ext/../vector_relational.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../ext/quaternion_relational.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../gtc/constants.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../gtc/matrix_transform.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/type_quat.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../trigonometric.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../exponential.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../ext/quaternion_geometric.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_float_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_double.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_double_precision.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_relational.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_geometric.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_trigonometric.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/scalar_constants.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_trigonometric.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_transform.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_transform.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../detail/type_mat3x3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../detail/type_mat4x4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../detail/type_vec3.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../detail/type_vec4.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/quaternion.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../exponential.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/epsilon.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../detail/setup.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../detail/qualifier.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/epsilon.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../vector_relational.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtc/../common.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtx/transform2.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtx/../glm.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtx/../gtx/transform.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtx/../gtx/../glm.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtx/../gtx/../gtc/matrix_transform.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtx/../gtx/transform.inl \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/glm/gtx/transform2.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/fwd.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/detail/qualifier.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/vec2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_bool2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/type_vec2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/qualifier.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/type_vec2.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/./compute_vector_relational.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/./setup.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_bool2_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_float2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_float2_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_double2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_double2_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_int2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_int2_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_uint2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_uint2_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/vec3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_bool3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/type_vec3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/type_vec3.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/compute_vector_relational.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_bool3_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_float3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_float3_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_double3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_double3_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_int3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_int3_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_uint3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_uint3_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/vec4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_bool4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/type_vec4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/type_vec4.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_bool4_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_float4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_float4_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_double4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_double4_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/setup.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_int4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_int4_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_uint4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/vector_uint4_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/mat2x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/matrix_double2x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/type_mat2x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/type_mat2x2.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../matrix.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/qualifier.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/setup.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../vec2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../vec3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../vec4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat2x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat2x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double2x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat2x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_vec2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_vec3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat2x3.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double2x3_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float2x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float2x3_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat2x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double2x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat2x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_vec4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat2x4.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double2x4_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float2x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float2x4_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat3x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double3x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat3x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat3x2.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double3x2_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float3x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float3x2_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat3x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double3x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat3x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat3x3.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/../matrix.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double3x3_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float3x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float3x3_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat3x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double3x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat3x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat3x4.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double3x4_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float3x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float3x4_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat4x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double4x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat4x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat4x2.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double4x2_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float4x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float4x2_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat2x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat4x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double4x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat4x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat4x3.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double4x3_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float4x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float4x3_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../mat4x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double4x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat4x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/../detail/type_mat4x4.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_double4x4_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float4x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/.././ext/matrix_float4x4_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/func_matrix.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../geometric.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/type_vec3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/func_geometric.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../exponential.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/type_vec1.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/qualifier.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/type_vec1.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/./compute_vector_relational.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/type_vec2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/type_vec3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/type_vec4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/func_exponential.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/../vector_relational.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/../detail/qualifier.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/../detail/setup.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/../detail/func_vector_relational.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/_vectorize.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../common.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/_fixes.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/func_common.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/compute_common.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/../detail/../detail/../detail/../detail/setup.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/matrix_double2x2_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/matrix_float2x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/./ext/matrix_float2x2_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/mat2x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/mat2x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/mat3x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/mat3x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/mat3x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/mat4x2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/mat4x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/mat4x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/trigonometric.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/detail/func_trigonometric.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/detail/_vectorize.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/exponential.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/common.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/packing.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/detail/func_packing.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/detail/../common.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/detail/type_half.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/detail/type_half.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/geometric.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/matrix.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/vector_relational.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/integer.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/detail/func_integer.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/matrix_transform.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../mat4x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../vec2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../vec3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../vec4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/matrix_projection.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../gtc/constants.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../gtc/../ext/scalar_constants.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../gtc/../ext/../detail/setup.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../gtc/../ext/scalar_constants.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../gtc/constants.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../geometric.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../trigonometric.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../matrix.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/matrix_projection.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/matrix_clip_space.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../ext/scalar_constants.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/matrix_clip_space.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/matrix_transform.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/matrix_transform.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/matrix_transform.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../geometric.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../trigonometric.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../matrix.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/quaternion.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../gtc/constants.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../gtc/matrix_transform.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/vector_relational.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/qualifier.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/vector_relational.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../vector_relational.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../common.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/type_float.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/setup.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_common.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../ext/quaternion_geometric.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../ext/../geometric.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../ext/../exponential.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../ext/../ext/vector_relational.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../ext/quaternion_geometric.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../exponential.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_common.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_float.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/type_quat.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../detail/type_mat3x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../detail/type_mat4x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../detail/type_vec3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../detail/type_vec4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../ext/vector_relational.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../ext/quaternion_relational.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../ext/../vector_relational.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../ext/quaternion_relational.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../gtc/constants.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../gtc/matrix_transform.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/type_quat.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../trigonometric.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../exponential.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/../detail/../ext/quaternion_geometric.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_float_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_double.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_double_precision.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_relational.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_geometric.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_trigonometric.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/scalar_constants.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_trigonometric.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_transform.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../ext/quaternion_transform.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../detail/type_mat3x3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../detail/type_mat4x4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../detail/type_vec3.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../detail/type_vec4.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/quaternion.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../exponential.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/epsilon.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../detail/setup.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../detail/qualifier.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/epsilon.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../vector_relational.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtc/../common.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtx/transform2.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtx/../glm.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtx/../gtx/transform.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtx/../gtx/../glm.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtx/../gtx/../gtc/matrix_transform.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtx/../gtx/transform.inl \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/glm/gtx/transform2.inl \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/chrono \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__chrono/calendar.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__chrono/convert_to_tm.h \
@@ -1261,15 +1261,15 @@ CMakeFiles/A09CG.dir/A09.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__chrono/year_month_weekday.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__chrono/literals.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/forward_list \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/tiny_obj_loader.h \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/tiny_obj_loader.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/map \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/sstream \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/stb_image.h \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/tiny_gltf.h \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/stb_image.h \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/tiny_gltf.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/sys/stat.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_s_ifmt.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_filesec_t.h \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/json.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/json.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/numeric \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__numeric/accumulate.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__numeric/adjacent_difference.h \
@@ -1285,7 +1285,7 @@ CMakeFiles/A09CG.dir/A09.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__numeric/transform_exclusive_scan.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__numeric/transform_inclusive_scan.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/valarray \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/stb_image_write.h \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/stb_image_write.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/TargetConditionals.h \
   /Library/Added/Vulkan/libs/glfw-3.4.bin.MACOS/include/GLFW/glfw3.h \
   /usr/local/include/vulkan/vulkan.h \
@@ -1302,9 +1302,9 @@ CMakeFiles/A09CG.dir/A09.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gltypes.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGLAvailability.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/os/availability.h \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/plusaes.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/headers/sinfl.h \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/plusaes.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/headers/sinfl.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/arm_neon.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/arm_bf16.h \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/modules/TextMaker.hpp \
-  /Users/alessandromancini/Ale/Coding/Progetti\ Visual\ Studio\ Code/EserciziCG/A09CG/Mesh.hpp
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/modules/TextMaker.hpp \
+  /Users/alessandromancini/Ale/Coding/Progetti\ VSC/EserciziCG/A09CG/Mesh.hpp
